@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="bookid" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/">
+<metadata>
+<dc:title>Легко и просто. Как справляться с задачами, к которым страшно подступиться</dc:title>
+<dc:creator>Тимур Сергеевич Зарудный</dc:creator>
+<dc:creator>Сергей Сергеевич Жданов</dc:creator>
+<dc:language>ru</dc:language>
+<dc:description>Выполнять обещания, реализовывать планы и вычеркивать пункты из списка намеченных дел, безусловно, приятно. Но иногда что-то идет не так, и осуществить задуманное не получается. Тимур Зарудный и Сергей Жданов разбираются с тем, как справиться со сложностями и довести дело до конца, учат слушать себя и объясняют, почему так важно отказаться от попытки достичь абсолютно всего и наконец расслабиться. В книге описываются проблемы ведения личных и рабочих проектов, приемы по преодолению трудностей, способы избежать выгорания на пути к цели, инструменты планирования и обоснование, как это все работает в мозге. Это книга для всех, кто когда-нибудь что-то начинал, не заканчивал и теперь боится снова облажаться.  В формате PDF A4 сохранен издательский макет книги. </dc:description>
+<meta name="FB2.book-info.date" content="2020-01-01"/>
+<dc:date>2020</dc:date>
+<meta name="FB2.document-info.program-used" content=" Presto, FictionBook Editor Release 2.6.7"/>
+<meta name="FB2.document-info.src-url" content="http://www.litres.ru/pages/biblio_book/?art=57400656"/>
+<meta name="FB2.document-info.history" content="v1.0 Roland – indd "/>
+<meta name="FB2.document-info.id" content="38659ef0-35da-11e9-be98-0cc47a5f3f85"/>
+<meta name="FB2.document-info.version" content="1"/>
+<meta name="FB2.document-info.date" content="2020-01-01"/>
+<dc:identifier id="bookid">urn:uuid:38659ef0-35da-11e9-be98-0cc47a5f3f85</dc:identifier>
+<meta name="FB2.publish-info.book-name" content="Легко и просто: как справляться с задачами, к которым страшно подступиться"/>
+<dc:identifier id="bookid1">isbn:978-5-04-103295-1</dc:identifier>
+<meta name="FB2EPUB.version" content="0.5.0"/>
+<meta name="FB2EPUB.conversionDate" content="2020-09-14T12:17:51+02:00"/>
+<meta name="cover" content="id1"/>
+</metadata>
+<manifest>
+<item href="ch1-15.xhtml" media-type="application/xhtml+xml" id="id2"/>
+<item href="images/i_095.jpg" media-type="image/jpeg" id="id3"/>
+<item href="images/i_030.jpg" media-type="image/jpeg" id="id4"/>
+<item href="ch1.xhtml" media-type="application/xhtml+xml" id="id5"/>
+<item href="fonts/Times-New-Roman-700-38659ef0-35da-11e9-be98-0cc47a5f3f85.otf" media-type="application/vnd.ms-opentype" id="id6"/>
+<item href="ch1-9.xhtml" media-type="application/xhtml+xml" id="id7"/>
+<item href="images/i_046.jpg" media-type="image/jpeg" id="id8"/>
+<item href="images/i_084.jpg" media-type="image/jpeg" id="id9"/>
+<item href="cover.xhtml" media-type="application/xhtml+xml" id="id10"/>
+<item href="images/i_035.jpg" media-type="image/jpeg" id="id11"/>
+<item href="images/i_073.jpg" media-type="image/jpeg" id="id12"/>
+<item href="images/i_003.jpg" media-type="image/jpeg" id="id13"/>
+<item href="images/i_089.jpg" media-type="image/jpeg" id="id14"/>
+<item href="images/i_024.jpg" media-type="image/jpeg" id="id15"/>
+<item href="images/i_062.jpg" media-type="image/jpeg" id="id16"/>
+<item href="images/i_078.jpg" media-type="image/jpeg" id="id17"/>
+<item href="images/i_013.jpg" media-type="image/jpeg" id="id18"/>
+<item href="images/i_051.jpg" media-type="image/jpeg" id="id19"/>
+<item href="images/i_008.jpg" media-type="image/jpeg" id="id20"/>
+<item href="ch1-3.xhtml" media-type="application/xhtml+xml" id="id21"/>
+<item href="images/i_029.jpg" media-type="image/jpeg" id="id22"/>
+<item href="images/i_067.jpg" media-type="image/jpeg" id="id23"/>
+<item href="images/i_040.jpg" media-type="image/jpeg" id="id24"/>
+<item href="images/i_018.jpg" media-type="image/jpeg" id="id25"/>
+<item href="images/i_056.jpg" media-type="image/jpeg" id="id26"/>
+<item href="images/i_094.jpg" media-type="image/jpeg" id="id27"/>
+<item href="images/i_101.jpg" media-type="image/jpeg" id="id28"/>
+<item href="images/i_045.jpg" media-type="image/jpeg" id="id29"/>
+<item href="images/i_083.jpg" media-type="image/jpeg" id="id30"/>
+<item href="ch1-14.xhtml" media-type="application/xhtml+xml" id="id31"/>
+<item href="images/i_099.jpg" media-type="image/jpeg" id="id32"/>
+<item href="images/i_034.jpg" media-type="image/jpeg" id="id33"/>
+<item href="images/i_072.jpg" media-type="image/jpeg" id="id34"/>
+<item href="ch1-8.xhtml" media-type="application/xhtml+xml" id="id35"/>
+<item href="images/i_002.jpg" media-type="image/jpeg" id="id36"/>
+<item href="ch1-2.xhtml" media-type="application/xhtml+xml" id="id37"/>
+<item href="images/i_088.jpg" media-type="image/jpeg" id="id38"/>
+<item href="images/i_023.jpg" media-type="image/jpeg" id="id39"/>
+<item href="images/i_061.jpg" media-type="image/jpeg" id="id40"/>
+<item href="images/i_039.jpg" media-type="image/jpeg" id="id41"/>
+<item href="images/i_077.jpg" media-type="image/jpeg" id="id42"/>
+<item href="images/i_012.jpg" media-type="image/jpeg" id="id43"/>
+<item href="toc.ncx" media-type="application/x-dtbncx+xml" id="id44"/>
+<item href="images/i_050.jpg" media-type="image/jpeg" id="id45"/>
+<item href="images/i_007.jpg" media-type="image/jpeg" id="id46"/>
+<item href="images/i_028.jpg" media-type="image/jpeg" id="id47"/>
+<item href="images/i_066.jpg" media-type="image/jpeg" id="id48"/>
+<item href="images/i_017.jpg" media-type="image/jpeg" id="id49"/>
+<item href="images/i_055.jpg" media-type="image/jpeg" id="id50"/>
+<item href="ch1-13.xhtml" media-type="application/xhtml+xml" id="id51"/>
+<item href="images/i_093.jpg" media-type="image/jpeg" id="id52"/>
+<item href="ch1-7.xhtml" media-type="application/xhtml+xml" id="id53"/>
+<item href="images/i_100.jpg" media-type="image/jpeg" id="id54"/>
+<item href="images/i_044.jpg" media-type="image/jpeg" id="id55"/>
+<item href="images/i_082.jpg" media-type="image/jpeg" id="id56"/>
+<item href="images/i_098.jpg" media-type="image/jpeg" id="id57"/>
+<item href="images/i_033.jpg" media-type="image/jpeg" id="id58"/>
+<item href="images/i_071.jpg" media-type="image/jpeg" id="id59"/>
+<item href="images/i_001.jpg" media-type="image/jpeg" id="id60"/>
+<item href="images/i_049.jpg" media-type="image/jpeg" id="id61"/>
+<item href="images/i_087.jpg" media-type="image/jpeg" id="id62"/>
+<item href="style.css" media-type="text/css" id="id63"/>
+<item href="images/i_022.jpg" media-type="image/jpeg" id="id64"/>
+<item href="images/i_060.jpg" media-type="image/jpeg" id="id65"/>
+<item href="images/i_038.jpg" media-type="image/jpeg" id="id66"/>
+<item href="images/i_076.jpg" media-type="image/jpeg" id="id67"/>
+<item href="images/i_011.jpg" media-type="image/jpeg" id="id68"/>
+<item href="ch1-12.xhtml" media-type="application/xhtml+xml" id="id69"/>
+<item href="images/i_006.jpg" media-type="image/jpeg" id="id70"/>
+<item href="ch1-6.xhtml" media-type="application/xhtml+xml" id="id71"/>
+<item href="ch1-1.xhtml" media-type="application/xhtml+xml" id="id72"/>
+<item href="images/i_027.jpg" media-type="image/jpeg" id="id73"/>
+<item href="images/i_065.jpg" media-type="image/jpeg" id="id74"/>
+<item href="images/i_016.jpg" media-type="image/jpeg" id="id75"/>
+<item href="images/i_054.jpg" media-type="image/jpeg" id="id76"/>
+<item href="images/i_092.jpg" media-type="image/jpeg" id="id77"/>
+<item href="images/cover.jpg" media-type="image/jpeg" id="id1"/>
+<item href="images/i_043.jpg" media-type="image/jpeg" id="id78"/>
+<item href="images/i_081.jpg" media-type="image/jpeg" id="id79"/>
+<item href="images/i_059.jpg" media-type="image/jpeg" id="id80"/>
+<item href="fonts/Times-New-Roman-700-Italic-38659ef0-35da-11e9-be98-0cc47a5f3f85.otf" media-type="application/vnd.ms-opentype" id="id81"/>
+<item href="images/i_097.jpg" media-type="image/jpeg" id="id82"/>
+<item href="images/i_032.jpg" media-type="image/jpeg" id="id83"/>
+<item href="images/i_070.jpg" media-type="image/jpeg" id="id84"/>
+<item href="images/i_048.jpg" media-type="image/jpeg" id="id85"/>
+<item href="images/i_086.jpg" media-type="image/jpeg" id="id86"/>
+<item href="images/i_021.jpg" media-type="image/jpeg" id="id87"/>
+<item href="images/i_037.jpg" media-type="image/jpeg" id="id88"/>
+<item href="images/i_075.jpg" media-type="image/jpeg" id="id89"/>
+<item href="images/i_010.jpg" media-type="image/jpeg" id="id90"/>
+<item href="images/i_005.jpg" media-type="image/jpeg" id="id91"/>
+<item href="images/i_026.jpg" media-type="image/jpeg" id="id92"/>
+<item href="images/i_064.jpg" media-type="image/jpeg" id="id93"/>
+<item href="images/i_015.jpg" media-type="image/jpeg" id="id94"/>
+<item href="images/i_053.jpg" media-type="image/jpeg" id="id95"/>
+<item href="ch1-11.xhtml" media-type="application/xhtml+xml" id="id96"/>
+<item href="images/i_091.jpg" media-type="image/jpeg" id="id97"/>
+<item href="ch1-5.xhtml" media-type="application/xhtml+xml" id="id98"/>
+<item href="images/i_069.jpg" media-type="image/jpeg" id="id99"/>
+<item href="images/i_042.jpg" media-type="image/jpeg" id="id100"/>
+<item href="images/i_080.jpg" media-type="image/jpeg" id="id101"/>
+<item href="images/i_058.jpg" media-type="image/jpeg" id="id102"/>
+<item href="images/i_096.jpg" media-type="image/jpeg" id="id103"/>
+<item href="images/i_031.jpg" media-type="image/jpeg" id="id104"/>
+<item href="images/i_047.jpg" media-type="image/jpeg" id="id105"/>
+<item href="images/i_085.jpg" media-type="image/jpeg" id="id106"/>
+<item href="images/i_020.jpg" media-type="image/jpeg" id="id107"/>
+<item href="fonts/Times-New-Roman-400-Italic-38659ef0-35da-11e9-be98-0cc47a5f3f85.otf" media-type="application/vnd.ms-opentype" id="id108"/>
+<item href="ch1-16.xhtml" media-type="application/xhtml+xml" id="id109"/>
+<item href="images/i_036.jpg" media-type="image/jpeg" id="id110"/>
+<item href="ch2.xhtml" media-type="application/xhtml+xml" id="id111"/>
+<item href="images/i_074.jpg" media-type="image/jpeg" id="id112"/>
+<item href="ch1-10.xhtml" media-type="application/xhtml+xml" id="id113"/>
+<item href="images/i_004.jpg" media-type="image/jpeg" id="id114"/>
+<item href="ch1-4.xhtml" media-type="application/xhtml+xml" id="id115"/>
+<item href="images/i_025.jpg" media-type="image/jpeg" id="id116"/>
+<item href="images/i_063.jpg" media-type="image/jpeg" id="id117"/>
+<item href="images/i_079.jpg" media-type="image/jpeg" id="id118"/>
+<item href="images/i_014.jpg" media-type="image/jpeg" id="id119"/>
+<item href="images/i_052.jpg" media-type="image/jpeg" id="id120"/>
+<item href="images/i_090.jpg" media-type="image/jpeg" id="id121"/>
+<item href="images/i_009.jpg" media-type="image/jpeg" id="id122"/>
+<item href="images/i_068.jpg" media-type="image/jpeg" id="id123"/>
+<item href="images/i_041.jpg" media-type="image/jpeg" id="id124"/>
+<item href="fonts/Times-New-Roman-400-38659ef0-35da-11e9-be98-0cc47a5f3f85.otf" media-type="application/vnd.ms-opentype" id="id125"/>
+<item href="images/i_019.jpg" media-type="image/jpeg" id="id126"/>
+<item href="images/i_057.jpg" media-type="image/jpeg" id="id127"/>
+</manifest>
+<spine toc="id44">
+<itemref idref="id10"/>
+<itemref idref="id5"/>
+<itemref idref="id72"/>
+<itemref idref="id37"/>
+<itemref idref="id21"/>
+<itemref idref="id115"/>
+<itemref idref="id98"/>
+<itemref idref="id71"/>
+<itemref idref="id53"/>
+<itemref idref="id35"/>
+<itemref idref="id7"/>
+<itemref idref="id113"/>
+<itemref idref="id96"/>
+<itemref idref="id69"/>
+<itemref idref="id51"/>
+<itemref idref="id31"/>
+<itemref idref="id2"/>
+<itemref idref="id109"/>
+<itemref idref="id111"/>
+</spine>
+<guide><reference href="images/cover.jpg" type="cover" title="cover"/>
+</guide></package>

@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ru">
+<head>
+<meta name="dtb:uid" content="urn:uuid:38659ef0-35da-11e9-be98-0cc47a5f3f85"/>
+<meta name="dtb:depth" content="4"/>
+<meta name="dtb:totalPageNumber" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Легко и просто. Как справляться с задачами, к которым страшно подступиться</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="id1">
+<navLabel>
+<text>Вступительная метафора</text>
+</navLabel>
+<content src="ch1-1.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="2" id="id2">
+<navLabel>
+<text>Часть I Готовимся к работе над проектом</text>
+</navLabel>
+<content src="ch1-2.xhtml#id2"/>
+<navPoint playOrder="3" id="id3">
+<navLabel>
+<text>Глава 1 Записать, вывести пользу, придумать проект</text>
+</navLabel>
+<content src="ch1-3.xhtml#id3"/>
+<navPoint playOrder="4" id="id4">
+<navLabel>
+<text>Шаг 1. Записать, что нужно сделать</text>
+</navLabel>
+<content src="ch1-3.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="5" id="id5">
+<navLabel>
+<text>Шаг 2. Разобраться, в чем польза</text>
+</navLabel>
+<content src="ch1-3.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="6" id="id6">
+<navLabel>
+<text>Шаг 3. Придумать проект</text>
+</navLabel>
+<content src="ch1-3.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="7" id="id7">
+<navLabel>
+<text>Если хочется просто взять и сделать прямо сейчас</text>
+</navLabel>
+<content src="ch1-3.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="8" id="id8">
+<navLabel>
+<text>Что, если хочется достичь состояния</text>
+</navLabel>
+<content src="ch1-3.xhtml#id8"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="9" id="id9">
+<navLabel>
+<text>Как запускать новые начинания</text>
+</navLabel>
+<content src="ch1-3.xhtml#id9"/>
+</navPoint>
+<navPoint playOrder="10" id="id10">
+<navLabel>
+<text>Глава 2 Помочь себе найти большую цель на год или дольше</text>
+</navLabel>
+<content src="ch1-4.xhtml#id10"/>
+<navPoint playOrder="11" id="id11">
+<navLabel>
+<text>Какие виды проектов бывают</text>
+</navLabel>
+<content src="ch1-4.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="12" id="id12">
+<navLabel>
+<text>то со всем этим делать</text>
+</navLabel>
+<content src="ch1-4.xhtml#id12"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="13" id="id13">
+<navLabel>
+<text>Как найти большую цель</text>
+</navLabel>
+<content src="ch1-4.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="14" id="id14">
+<navLabel>
+<text>Глава 3 Понять, что будет, если ничего не делать</text>
+</navLabel>
+<content src="ch1-4.xhtml#id14"/>
+<navPoint playOrder="15" id="id15">
+<navLabel>
+<text>Как это работает</text>
+</navLabel>
+<content src="ch1-4.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="16" id="id16">
+<navLabel>
+<text>Что делать, если просто хочется и в этом есть энергия</text>
+</navLabel>
+<content src="ch1-4.xhtml#id16"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="17" id="id17">
+<navLabel>
+<text>Как понять, что будет, если не делать</text>
+</navLabel>
+<content src="ch1-4.xhtml#id17"/>
+</navPoint>
+<navPoint playOrder="18" id="id18">
+<navLabel>
+<text>Глава 4 Поменьше врать себе и отличать честность от булщита</text>
+</navLabel>
+<content src="ch1-4.xhtml#id18"/>
+<navPoint playOrder="19" id="id19">
+<navLabel>
+<text>Нечестность в повседневной жизни</text>
+</navLabel>
+<content src="ch1-4.xhtml#id19"/>
+</navPoint>
+<navPoint playOrder="20" id="id20">
+<navLabel>
+<text>Как отличать формальный булщит от честности</text>
+</navLabel>
+<content src="ch1-4.xhtml#id20"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="21" id="id21">
+<navLabel>
+<text>Как и зачем меньше врать себе</text>
+</navLabel>
+<content src="ch1-4.xhtml#id21"/>
+</navPoint>
+<navPoint playOrder="22" id="id22">
+<navLabel>
+<text>Глава 5 Разрешить себе вовремя останавливаться</text>
+</navLabel>
+<content src="ch1-4.xhtml#id22"/>
+<navPoint playOrder="23" id="id23">
+<navLabel>
+<text>Слайдер против переключателя</text>
+</navLabel>
+<content src="ch1-4.xhtml#id23"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="24" id="id24">
+<navLabel>
+<text>Как разрешить себе останавливаться</text>
+</navLabel>
+<content src="ch1-4.xhtml#id24"/>
+</navPoint>
+<navPoint playOrder="25" id="id25">
+<navLabel>
+<text>Глава 6 Наладить обратную связь</text>
+</navLabel>
+<content src="ch1-4.xhtml#id25"/>
+<navPoint playOrder="26" id="id26">
+<navLabel>
+<text>Зачем собирать обратную связь</text>
+</navLabel>
+<content src="ch1-4.xhtml#id26"/>
+</navPoint>
+<navPoint playOrder="27" id="id27">
+<navLabel>
+<text>Текстом</text>
+</navLabel>
+<content src="ch1-4.xhtml#id27"/>
+</navPoint>
+<navPoint playOrder="28" id="id28">
+<navLabel>
+<text>Регулярно и честно</text>
+</navLabel>
+<content src="ch1-4.xhtml#id28"/>
+</navPoint>
+<navPoint playOrder="29" id="id29">
+<navLabel>
+<text>Проектное – в процессе</text>
+</navLabel>
+<content src="ch1-4.xhtml#id29"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="30" id="id30">
+<navLabel>
+<text>Как собирать обратную связь</text>
+</navLabel>
+<content src="ch1-4.xhtml#id30"/>
+</navPoint>
+<navPoint playOrder="31" id="id31">
+<navLabel>
+<text>Глава 7 Собрать все в таблицу</text>
+</navLabel>
+<content src="ch1-4.xhtml#id31"/>
+<navPoint playOrder="32" id="id32">
+<navLabel>
+<text>Частота синхронизации и инструмент</text>
+</navLabel>
+<content src="ch1-4.xhtml#id32"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="33" id="id33">
+<navLabel>
+<text>Как собирать все в таблицу</text>
+</navLabel>
+<content src="ch1-4.xhtml#id33"/>
+</navPoint>
+<navPoint playOrder="34" id="id34">
+<navLabel>
+<text>Если что-то пошло не так</text>
+</navLabel>
+<content src="ch1-4.xhtml#id34"/>
+</navPoint>
+<navPoint playOrder="35" id="id35">
+<navLabel>
+<text>Глава 8 Справиться с раздражением к проекту, к которому еще не приступил</text>
+</navLabel>
+<content src="ch1-4.xhtml#id35"/>
+<navPoint playOrder="36" id="id36">
+<navLabel>
+<text>Прояснить цель</text>
+</navLabel>
+<content src="ch1-4.xhtml#id36"/>
+</navPoint>
+<navPoint playOrder="37" id="id37">
+<navLabel>
+<text>Разберите действие по структуре</text>
+</navLabel>
+<content src="ch1-4.xhtml#id37"/>
+</navPoint>
+<navPoint playOrder="38" id="id38">
+<navLabel>
+<text>Изменить стимул</text>
+</navLabel>
+<content src="ch1-4.xhtml#id38"/>
+</navPoint>
+<navPoint playOrder="39" id="id39">
+<navLabel>
+<text>Придумать награду</text>
+</navLabel>
+<content src="ch1-4.xhtml#id39"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="40" id="id40">
+<navLabel>
+<text>Как справиться с раздражением</text>
+</navLabel>
+<content src="ch1-4.xhtml#id40"/>
+</navPoint>
+<navPoint playOrder="41" id="id41">
+<navLabel>
+<text>Глава 9 Заметить убеждения и избавиться от лишних</text>
+</navLabel>
+<content src="ch1-5.xhtml#id41"/>
+<navPoint playOrder="42" id="id42">
+<navLabel>
+<text>Что такое убеждения</text>
+</navLabel>
+<content src="ch1-5.xhtml#id42"/>
+</navPoint>
+<navPoint playOrder="43" id="id43">
+<navLabel>
+<text>Поиск убеждений</text>
+</navLabel>
+<content src="ch1-5.xhtml#id43"/>
+</navPoint>
+<navPoint playOrder="44" id="id44">
+<navLabel>
+<text>Разбор и избавление от неприятных мыслей</text>
+</navLabel>
+<content src="ch1-5.xhtml#id44"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="45" id="id45">
+<navLabel>
+<text>Как работать с убеждениями</text>
+</navLabel>
+<content src="ch1-5.xhtml#id45"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="46" id="id46">
+<navLabel>
+<text>Часть II Процесс ловли ветра</text>
+</navLabel>
+<content src="ch1-6.xhtml#id46"/>
+<navPoint playOrder="47" id="id47">
+<navLabel>
+<text>Глава 10 Перестать планировать и начать делать</text>
+</navLabel>
+<content src="ch1-6.xhtml#id47"/>
+<navPoint playOrder="48" id="id48">
+<navLabel>
+<text>1. Перечитывать заранее подготовленную табличку с информацией</text>
+</navLabel>
+<content src="ch1-6.xhtml#id48"/>
+</navPoint>
+<navPoint playOrder="49" id="id49">
+<navLabel>
+<text>2. Начинать с чего угодно</text>
+</navLabel>
+<content src="ch1-6.xhtml#id49"/>
+</navPoint>
+<navPoint playOrder="50" id="id50">
+<navLabel>
+<text>3. Делать по чуть-чуть</text>
+</navLabel>
+<content src="ch1-6.xhtml#id50"/>
+</navPoint>
+<navPoint playOrder="51" id="id51">
+<navLabel>
+<text>4. Вводить пробный период</text>
+</navLabel>
+<content src="ch1-6.xhtml#id51"/>
+</navPoint>
+<navPoint playOrder="52" id="id52">
+<navLabel>
+<text>5. Устанавливать временные рамки</text>
+</navLabel>
+<content src="ch1-6.xhtml#id52"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="53" id="id53">
+<navLabel>
+<text>Как перейти от планирования к делу</text>
+</navLabel>
+<content src="ch1-6.xhtml#id53"/>
+</navPoint>
+<navPoint playOrder="54" id="id54">
+<navLabel>
+<text>Глава 11 Сформулировать полезное действие</text>
+</navLabel>
+<content src="ch1-6.xhtml#id54"/>
+<navPoint playOrder="55" id="id55">
+<navLabel>
+<text>Минимальное полезное действие</text>
+</navLabel>
+<content src="ch1-6.xhtml#id55"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="56" id="id56">
+<navLabel>
+<text>Как формулировать полезное действие</text>
+</navLabel>
+<content src="ch1-6.xhtml#id56"/>
+</navPoint>
+<navPoint playOrder="57" id="id57">
+<navLabel>
+<text>Глава 12 Разобрать большие цели на небольшие и посильные</text>
+</navLabel>
+<content src="ch1-6.xhtml#id57"/>
+<navPoint playOrder="58" id="id58">
+<navLabel>
+<text>Придумайте промежуточные цели</text>
+</navLabel>
+<content src="ch1-6.xhtml#id58"/>
+</navPoint>
+<navPoint playOrder="59" id="id59">
+<navLabel>
+<text>Пересматривайте планы</text>
+</navLabel>
+<content src="ch1-6.xhtml#id59"/>
+</navPoint>
+<navPoint playOrder="60" id="id60">
+<navLabel>
+<text>Что делать, если жизнь берет свое</text>
+</navLabel>
+<content src="ch1-6.xhtml#id60"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="61" id="id61">
+<navLabel>
+<text>Как и зачем разбивать большие проекты</text>
+</navLabel>
+<content src="ch1-6.xhtml#id61"/>
+</navPoint>
+<navPoint playOrder="62" id="id62">
+<navLabel>
+<text>Глава 13 Научиться доводить мелкие приемы до автоматизма</text>
+</navLabel>
+<content src="ch1-6.xhtml#id62"/>
+<navPoint playOrder="63" id="id63">
+<navLabel>
+<text>Концепция</text>
+</navLabel>
+<content src="ch1-6.xhtml#id63"/>
+</navPoint>
+<navPoint playOrder="64" id="id64">
+<navLabel>
+<text>Как получилось у меня</text>
+</navLabel>
+<content src="ch1-6.xhtml#id64"/>
+</navPoint>
+<navPoint playOrder="65" id="id65">
+<navLabel>
+<text>Что еще</text>
+</navLabel>
+<content src="ch1-6.xhtml#id65"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="66" id="id66">
+<navLabel>
+<text>Как доводить все до автоматизма</text>
+</navLabel>
+<content src="ch1-6.xhtml#id66"/>
+</navPoint>
+<navPoint playOrder="67" id="id67">
+<navLabel>
+<text>Глава 14 Подобрать приемы для ежедневной работы</text>
+</navLabel>
+<content src="ch1-7.xhtml#id67"/>
+<navPoint playOrder="68" id="id68">
+<navLabel>
+<text>Ограничивайтесь тремя делами</text>
+</navLabel>
+<content src="ch1-7.xhtml#id68"/>
+</navPoint>
+<navPoint playOrder="69" id="id69">
+<navLabel>
+<text>Закрывайте списки</text>
+</navLabel>
+<content src="ch1-7.xhtml#id69"/>
+</navPoint>
+<navPoint playOrder="70" id="id70">
+<navLabel>
+<text>Записывайте в блокнот все планы и идеи, которые приходят в голову</text>
+</navLabel>
+<content src="ch1-7.xhtml#id70"/>
+</navPoint>
+<navPoint playOrder="71" id="id71">
+<navLabel>
+<text>Убирайте телефон в коробку</text>
+</navLabel>
+<content src="ch1-7.xhtml#id71"/>
+</navPoint>
+<navPoint playOrder="72" id="id72">
+<navLabel>
+<text>Работайте ритмично: по технике помодоро, с отвлечением и потягиваниями</text>
+</navLabel>
+<content src="ch1-7.xhtml#id72"/>
+</navPoint>
+<navPoint playOrder="73" id="id73">
+<navLabel>
+<text>Прогуливайтесь каждые полтора часа</text>
+</navLabel>
+<content src="ch1-7.xhtml#id73"/>
+</navPoint>
+<navPoint playOrder="74" id="id74">
+<navLabel>
+<text>Спите днем</text>
+</navLabel>
+<content src="ch1-7.xhtml#id74"/>
+</navPoint>
+<navPoint playOrder="75" id="id75">
+<navLabel>
+<text>Заканчивайте, когда заканчиваются задачи</text>
+</navLabel>
+<content src="ch1-7.xhtml#id75"/>
+</navPoint>
+<navPoint playOrder="76" id="id76">
+<navLabel>
+<text>Заканчивайте в четко установленное время – даже если задачи еще не закончились</text>
+</navLabel>
+<content src="ch1-7.xhtml#id76"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="77" id="id77">
+<navLabel>
+<text>Как максимально продуктивно проводить рабочий день</text>
+</navLabel>
+<content src="ch1-7.xhtml#id77"/>
+</navPoint>
+<navPoint playOrder="78" id="id78">
+<navLabel>
+<text>Если что-то пошло не так-2</text>
+</navLabel>
+<content src="ch1-7.xhtml#id78"/>
+</navPoint>
+<navPoint playOrder="79" id="id79">
+<navLabel>
+<text>Глава 15 Избегать напряжения из-за завалов</text>
+</navLabel>
+<content src="ch1-8.xhtml#id79"/>
+<navPoint playOrder="80" id="id80">
+<navLabel>
+<text>Откуда берется напряжение</text>
+</navLabel>
+<content src="ch1-8.xhtml#id80"/>
+</navPoint>
+<navPoint playOrder="81" id="id81">
+<navLabel>
+<text>Перестаньте делать то, что делали</text>
+</navLabel>
+<content src="ch1-8.xhtml#id81"/>
+</navPoint>
+<navPoint playOrder="82" id="id82">
+<navLabel>
+<text>Снижайте детализацию</text>
+</navLabel>
+<content src="ch1-8.xhtml#id82"/>
+</navPoint>
+<navPoint playOrder="83" id="id83">
+<navLabel>
+<text>Наблюдайте за мыслями и действиями</text>
+</navLabel>
+<content src="ch1-8.xhtml#id83"/>
+</navPoint>
+<navPoint playOrder="84" id="id84">
+<navLabel>
+<text>Убедите себя, что это не страх, а азарт</text>
+</navLabel>
+<content src="ch1-8.xhtml#id84"/>
+</navPoint>
+<navPoint playOrder="85" id="id85">
+<navLabel>
+<text>Вообще ничего не делайте</text>
+</navLabel>
+<content src="ch1-8.xhtml#id85"/>
+</navPoint>
+<navPoint playOrder="86" id="id86">
+<navLabel>
+<text>Отдыхайте, расслабляйтесь и общайтесь с друзьями</text>
+</navLabel>
+<content src="ch1-8.xhtml#id86"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="87" id="id87">
+<navLabel>
+<text>Как не напрягаться</text>
+</navLabel>
+<content src="ch1-8.xhtml#id87"/>
+</navPoint>
+<navPoint playOrder="88" id="id88">
+<navLabel>
+<text>Глава 16 Побеждать скуку</text>
+</navLabel>
+<content src="ch1-8.xhtml#id88"/>
+<navPoint playOrder="89" id="id89">
+<navLabel>
+<text>Разберитесь, зачем все это нужно</text>
+</navLabel>
+<content src="ch1-8.xhtml#id89"/>
+</navPoint>
+<navPoint playOrder="90" id="id90">
+<navLabel>
+<text>Сделайте по-новому</text>
+</navLabel>
+<content src="ch1-8.xhtml#id90"/>
+</navPoint>
+<navPoint playOrder="91" id="id91">
+<navLabel>
+<text>Придумайте ритуалы и правила</text>
+</navLabel>
+<content src="ch1-8.xhtml#id91"/>
+</navPoint>
+<navPoint playOrder="92" id="id92">
+<navLabel>
+<text>Начните с одноходовок</text>
+</navLabel>
+<content src="ch1-8.xhtml#id92"/>
+</navPoint>
+<navPoint playOrder="93" id="id93">
+<navLabel>
+<text>Копите вдохновляющие приемы</text>
+</navLabel>
+<content src="ch1-8.xhtml#id93"/>
+</navPoint>
+<navPoint playOrder="94" id="id94">
+<navLabel>
+<text>Поставьте на паузу</text>
+</navLabel>
+<content src="ch1-8.xhtml#id94"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="95" id="id95">
+<navLabel>
+<text>Как не скучать</text>
+</navLabel>
+<content src="ch1-8.xhtml#id95"/>
+</navPoint>
+<navPoint playOrder="96" id="id96">
+<navLabel>
+<text>Глава 17 Вести несколько проектов одновременно</text>
+</navLabel>
+<content src="ch1-8.xhtml#id96"/>
+<navPoint playOrder="97" id="id97">
+<navLabel>
+<text>Знать, чего хочу</text>
+</navLabel>
+<content src="ch1-8.xhtml#id97"/>
+</navPoint>
+<navPoint playOrder="98" id="id98">
+<navLabel>
+<text>Набраться терпения</text>
+</navLabel>
+<content src="ch1-8.xhtml#id98"/>
+</navPoint>
+<navPoint playOrder="99" id="id99">
+<navLabel>
+<text>Понять, когда и чем буду заниматься</text>
+</navLabel>
+<content src="ch1-8.xhtml#id99"/>
+</navPoint>
+<navPoint playOrder="100" id="id100">
+<navLabel>
+<text>Готовиться, чтобы быстро погружаться в процесс</text>
+</navLabel>
+<content src="ch1-8.xhtml#id100"/>
+</navPoint>
+<navPoint playOrder="101" id="id101">
+<navLabel>
+<text>Заботиться о себе и наблюдать за состоянием</text>
+</navLabel>
+<content src="ch1-8.xhtml#id101"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="102" id="id102">
+<navLabel>
+<text>Как делать несколько практик одновременно</text>
+</navLabel>
+<content src="ch1-8.xhtml#id102"/>
+</navPoint>
+<navPoint playOrder="103" id="id103">
+<navLabel>
+<text>Глава 18 Понаблюдать за тем, почему хочется начинать что-нибудь новое</text>
+</navLabel>
+<content src="ch1-8.xhtml#id103"/>
+</navPoint>
+<navPoint playOrder="104" id="id104">
+<navLabel>
+<text>Как не кидаться с одного проекта на другой</text>
+</navLabel>
+<content src="ch1-8.xhtml#id104"/>
+</navPoint>
+<navPoint playOrder="105" id="id105">
+<navLabel>
+<text>Глава 19 Справляться с авралом, который сами устроили</text>
+</navLabel>
+<content src="ch1-8.xhtml#id105"/>
+<navPoint playOrder="106" id="id106">
+<navLabel>
+<text>Составьте список причин, по которым вам все это нужно</text>
+</navLabel>
+<content src="ch1-8.xhtml#id106"/>
+</navPoint>
+<navPoint playOrder="107" id="id107">
+<navLabel>
+<text>Чем активнее день, тем контрастнее отдых</text>
+</navLabel>
+<content src="ch1-8.xhtml#id107"/>
+</navPoint>
+<navPoint playOrder="108" id="id108">
+<navLabel>
+<text>Входите в день и выходите из него с тишиной</text>
+</navLabel>
+<content src="ch1-8.xhtml#id108"/>
+</navPoint>
+<navPoint playOrder="109" id="id109">
+<navLabel>
+<text>Придумайте собственные ритуалы</text>
+</navLabel>
+<content src="ch1-8.xhtml#id109"/>
+</navPoint>
+<navPoint playOrder="110" id="id110">
+<navLabel>
+<text>Разминайтесь</text>
+</navLabel>
+<content src="ch1-8.xhtml#id110"/>
+</navPoint>
+<navPoint playOrder="111" id="id111">
+<navLabel>
+<text>Вода – хорошо, стимуляторы – нет</text>
+</navLabel>
+<content src="ch1-8.xhtml#id111"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="112" id="id112">
+<navLabel>
+<text>Как справляться с авралом</text>
+</navLabel>
+<content src="ch1-8.xhtml#id112"/>
+</navPoint>
+<navPoint playOrder="113" id="id113">
+<navLabel>
+<text>Глава 20 Тушить пожар, если не справились с авралом и подгорели</text>
+</navLabel>
+<content src="ch1-8.xhtml#id113"/>
+<navPoint playOrder="114" id="id114">
+<navLabel>
+<text>Что за выгорание?</text>
+</navLabel>
+<content src="ch1-8.xhtml#id114"/>
+</navPoint>
+<navPoint playOrder="115" id="id115">
+<navLabel>
+<text>Отключитесь</text>
+</navLabel>
+<content src="ch1-8.xhtml#id115"/>
+</navPoint>
+<navPoint playOrder="116" id="id116">
+<navLabel>
+<text>Слушайте собственные желания</text>
+</navLabel>
+<content src="ch1-8.xhtml#id116"/>
+</navPoint>
+<navPoint playOrder="117" id="id117">
+<navLabel>
+<text>Идите за помощью</text>
+</navLabel>
+<content src="ch1-8.xhtml#id117"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="118" id="id118">
+<navLabel>
+<text>Как действовать, если горите</text>
+</navLabel>
+<content src="ch1-8.xhtml#id118"/>
+</navPoint>
+<navPoint playOrder="119" id="id119">
+<navLabel>
+<text>Глава 21 Выяснить, когда продолжать</text>
+</navLabel>
+<content src="ch1-8.xhtml#id119"/>
+<navPoint playOrder="120" id="id120">
+<navLabel>
+<text>Прояснить</text>
+</navLabel>
+<content src="ch1-8.xhtml#id120"/>
+</navPoint>
+<navPoint playOrder="121" id="id121">
+<navLabel>
+<text>Отстать от себя</text>
+</navLabel>
+<content src="ch1-8.xhtml#id121"/>
+</navPoint>
+<navPoint playOrder="122" id="id122">
+<navLabel>
+<text>Когда же стоит поднапрячься</text>
+</navLabel>
+<content src="ch1-8.xhtml#id122"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="123" id="id123">
+<navLabel>
+<text>Как понять, когда продолжать</text>
+</navLabel>
+<content src="ch1-8.xhtml#id123"/>
+</navPoint>
+<navPoint playOrder="124" id="id124">
+<navLabel>
+<text>Глава 22 Понять, когда и как заканчивать</text>
+</navLabel>
+<content src="ch1-8.xhtml#id124"/>
+<navPoint playOrder="125" id="id125">
+<navLabel>
+<text>Не ведет к цели</text>
+</navLabel>
+<content src="ch1-8.xhtml#id125"/>
+</navPoint>
+<navPoint playOrder="126" id="id126">
+<navLabel>
+<text>Нет эффективности</text>
+</navLabel>
+<content src="ch1-8.xhtml#id126"/>
+</navPoint>
+<navPoint playOrder="127" id="id127">
+<navLabel>
+<text>Уже достиг цели</text>
+</navLabel>
+<content src="ch1-8.xhtml#id127"/>
+</navPoint>
+<navPoint playOrder="128" id="id128">
+<navLabel>
+<text>Не хватает ресурсов</text>
+</navLabel>
+<content src="ch1-8.xhtml#id128"/>
+</navPoint>
+<navPoint playOrder="129" id="id129">
+<navLabel>
+<text>Не хочется</text>
+</navLabel>
+<content src="ch1-8.xhtml#id129"/>
+</navPoint>
+<navPoint playOrder="130" id="id130">
+<navLabel>
+<text>Как заканчивать недоделанные проекты и не чувствовать вины</text>
+</navLabel>
+<content src="ch1-8.xhtml#id130"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="131" id="id131">
+<navLabel>
+<text>Тормозите дела, если:</text>
+</navLabel>
+<content src="ch1-8.xhtml#id131"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="132" id="id132">
+<navLabel>
+<text>Часть III Фундамент базовой адекватности</text>
+</navLabel>
+<content src="ch1-9.xhtml#id132"/>
+<navPoint playOrder="133" id="id133">
+<navLabel>
+<text>Глава 23 Спать и высыпаться</text>
+</navLabel>
+<content src="ch1-10.xhtml#id133"/>
+<navPoint playOrder="134" id="id134">
+<navLabel>
+<text>Спите 7–9 часов</text>
+</navLabel>
+<content src="ch1-10.xhtml#id134"/>
+</navPoint>
+<navPoint playOrder="135" id="id135">
+<navLabel>
+<text>Создайте правильные условия</text>
+</navLabel>
+<content src="ch1-10.xhtml#id135"/>
+</navPoint>
+<navPoint playOrder="136" id="id136">
+<navLabel>
+<text>Убирайте гаджеты за час до сна</text>
+</navLabel>
+<content src="ch1-10.xhtml#id136"/>
+</navPoint>
+<navPoint playOrder="137" id="id137">
+<navLabel>
+<text>Не пейте кофеиновое после обеда, алкоголь – за час до сна</text>
+</navLabel>
+<content src="ch1-10.xhtml#id137"/>
+</navPoint>
+<navPoint playOrder="138" id="id138">
+<navLabel>
+<text>Спите днем</text>
+</navLabel>
+<content src="ch1-10.xhtml#id138"/>
+</navPoint>
+<navPoint playOrder="139" id="id139">
+<navLabel>
+<text>Что делать, если не получается заснуть</text>
+</navLabel>
+<content src="ch1-10.xhtml#id139"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="140" id="id140">
+<navLabel>
+<text>Как высыпаться</text>
+</navLabel>
+<content src="ch1-10.xhtml#id140"/>
+</navPoint>
+<navPoint playOrder="141" id="id141">
+<navLabel>
+<text>Глава 24 Больше двигаться</text>
+</navLabel>
+<content src="ch1-10.xhtml#id141"/>
+<navPoint playOrder="142" id="id142">
+<navLabel>
+<text>Зачем нам физкультура</text>
+</navLabel>
+<content src="ch1-10.xhtml#id142"/>
+</navPoint>
+<navPoint playOrder="143" id="id143">
+<navLabel>
+<text>Сколько двигаться</text>
+</navLabel>
+<content src="ch1-10.xhtml#id143"/>
+</navPoint>
+<navPoint playOrder="144" id="id144">
+<navLabel>
+<text>Ходить 10 000 шагов в день</text>
+</navLabel>
+<content src="ch1-10.xhtml#id144"/>
+</navPoint>
+<navPoint playOrder="145" id="id145">
+<navLabel>
+<text>Делать зарядку</text>
+</navLabel>
+<content src="ch1-10.xhtml#id145"/>
+</navPoint>
+<navPoint playOrder="146" id="id146">
+<navLabel>
+<text>Растираться и принимать контрастный душ</text>
+</navLabel>
+<content src="ch1-10.xhtml#id146"/>
+</navPoint>
+<navPoint playOrder="147" id="id147">
+<navLabel>
+<text>Заниматься силовыми</text>
+</navLabel>
+<content src="ch1-10.xhtml#id147"/>
+</navPoint>
+<navPoint playOrder="148" id="id148">
+<navLabel>
+<text>Баня, сауна, онсэн</text>
+</navLabel>
+<content src="ch1-10.xhtml#id148"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="149" id="id149">
+<navLabel>
+<text>Как больше двигаться</text>
+</navLabel>
+<content src="ch1-10.xhtml#id149"/>
+</navPoint>
+<navPoint playOrder="150" id="id150">
+<navLabel>
+<text>Глава 25 Научиться понимать свои потребности и себя</text>
+</navLabel>
+<content src="ch1-10.xhtml#id150"/>
+<navPoint playOrder="151" id="id151">
+<navLabel>
+<text>Что за потребности</text>
+</navLabel>
+<content src="ch1-10.xhtml#id151"/>
+</navPoint>
+<navPoint playOrder="152" id="id152">
+<navLabel>
+<text>Осознать</text>
+</navLabel>
+<content src="ch1-10.xhtml#id152"/>
+</navPoint>
+<navPoint playOrder="153" id="id153">
+<navLabel>
+<text>Принять → выбрать</text>
+</navLabel>
+<content src="ch1-10.xhtml#id153"/>
+</navPoint>
+<navPoint playOrder="154" id="id154">
+<navLabel>
+<text>Озвучить → сделать</text>
+</navLabel>
+<content src="ch1-10.xhtml#id154"/>
+</navPoint>
+<navPoint playOrder="155" id="id155">
+<navLabel>
+<text>Как понимать себя</text>
+</navLabel>
+<content src="ch1-10.xhtml#id155"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="156" id="id156">
+<navLabel>
+<text>Четыре шага к пониманию:</text>
+</navLabel>
+<content src="ch1-10.xhtml#id156"/>
+</navPoint>
+<navPoint playOrder="157" id="id157">
+<navLabel>
+<text>Глава 26 Учиться защищать свои границы и говорить «нет»</text>
+</navLabel>
+<content src="ch1-11.xhtml#id157"/>
+<navPoint playOrder="158" id="id158">
+<navLabel>
+<text>Что за границы</text>
+</navLabel>
+<content src="ch1-11.xhtml#id158"/>
+</navPoint>
+<navPoint playOrder="159" id="id159">
+<navLabel>
+<text>Сильные и слабые</text>
+</navLabel>
+<content src="ch1-11.xhtml#id159"/>
+</navPoint>
+<navPoint playOrder="160" id="id160">
+<navLabel>
+<text>Научиться понимать себя и свои потребности</text>
+</navLabel>
+<content src="ch1-11.xhtml#id160"/>
+</navPoint>
+<navPoint playOrder="161" id="id161">
+<navLabel>
+<text>Понять, что вы считаете своим и за что несете ответственность</text>
+</navLabel>
+<content src="ch1-11.xhtml#id161"/>
+</navPoint>
+<navPoint playOrder="162" id="id162">
+<navLabel>
+<text>Не лезть другим людям в голову</text>
+</navLabel>
+<content src="ch1-11.xhtml#id162"/>
+</navPoint>
+<navPoint playOrder="163" id="id163">
+<navLabel>
+<text>Принять другого человека с его желаниями, мыслями и стремлениями</text>
+</navLabel>
+<content src="ch1-11.xhtml#id163"/>
+</navPoint>
+<navPoint playOrder="164" id="id164">
+<navLabel>
+<text>Учиться говорить «нет»</text>
+</navLabel>
+<content src="ch1-11.xhtml#id164"/>
+</navPoint>
+<navPoint playOrder="165" id="id165">
+<navLabel>
+<text>Говорить «да», только если нет давления</text>
+</navLabel>
+<content src="ch1-11.xhtml#id165"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="166" id="id166">
+<navLabel>
+<text>Как защищать границы</text>
+</navLabel>
+<content src="ch1-11.xhtml#id166"/>
+</navPoint>
+<navPoint playOrder="167" id="id167">
+<navLabel>
+<text>Глава 27 Брать поддержку у окружения – даже если вы интроверт</text>
+</navLabel>
+<content src="ch1-11.xhtml#id167"/>
+<navPoint playOrder="168" id="id168">
+<navLabel>
+<text>Подбирайте окружение</text>
+</navLabel>
+<content src="ch1-11.xhtml#id168"/>
+</navPoint>
+<navPoint playOrder="169" id="id169">
+<navLabel>
+<text>Что делать</text>
+</navLabel>
+<content src="ch1-11.xhtml#id169"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="170" id="id170">
+<navLabel>
+<text>Как искать поддержку</text>
+</navLabel>
+<content src="ch1-11.xhtml#id170"/>
+</navPoint>
+<navPoint playOrder="171" id="id171">
+<navLabel>
+<text>Глава 28 Принимать неприятное</text>
+</navLabel>
+<content src="ch1-12.xhtml#id171"/>
+<navPoint playOrder="172" id="id172">
+<navLabel>
+<text>Что такое принятие</text>
+</navLabel>
+<content src="ch1-12.xhtml#id172"/>
+</navPoint>
+<navPoint playOrder="173" id="id173">
+<navLabel>
+<text>Почему сопротивление – не ок</text>
+</navLabel>
+<content src="ch1-12.xhtml#id173"/>
+</navPoint>
+<navPoint playOrder="174" id="id174">
+<navLabel>
+<text>Замечать дискомфорт и сопротивление</text>
+</navLabel>
+<content src="ch1-12.xhtml#id174"/>
+</navPoint>
+<navPoint playOrder="175" id="id175">
+<navLabel>
+<text>Отделять себя от мыслей и эмоций</text>
+</navLabel>
+<content src="ch1-12.xhtml#id175"/>
+</navPoint>
+<navPoint playOrder="176" id="id176">
+<navLabel>
+<text>Выделять время на изучение дискомфорта</text>
+</navLabel>
+<content src="ch1-12.xhtml#id176"/>
+</navPoint>
+<navPoint playOrder="177" id="id177">
+<navLabel>
+<text>Благодарить кого-нибудь каждый день</text>
+</navLabel>
+<content src="ch1-12.xhtml#id177"/>
+</navPoint>
+<navPoint playOrder="178" id="id178">
+<navLabel>
+<text>Медитировать</text>
+</navLabel>
+<content src="ch1-12.xhtml#id178"/>
+</navPoint>
+<navPoint playOrder="179" id="id179">
+<navLabel>
+<text>Написать памятку</text>
+</navLabel>
+<content src="ch1-12.xhtml#id179"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="180" id="id180">
+<navLabel>
+<text>Как принимать неприятное</text>
+</navLabel>
+<content src="ch1-12.xhtml#id180"/>
+</navPoint>
+<navPoint playOrder="181" id="id181">
+<navLabel>
+<text>Глава 29 Отключать цифровые приборы, чтобы поскучать</text>
+</navLabel>
+<content src="ch1-13.xhtml#id181"/>
+<navPoint playOrder="182" id="id182">
+<navLabel>
+<text>Почему это касается нас</text>
+</navLabel>
+<content src="ch1-13.xhtml#id182"/>
+</navPoint>
+<navPoint playOrder="183" id="id183">
+<navLabel>
+<text>Как мозг страдает от переизбытка информации</text>
+</navLabel>
+<content src="ch1-13.xhtml#id183"/>
+</navPoint>
+<navPoint playOrder="184" id="id184">
+<navLabel>
+<text>Новости</text>
+</navLabel>
+<content src="ch1-13.xhtml#id184"/>
+</navPoint>
+<navPoint playOrder="185" id="id185">
+<navLabel>
+<text>Соцсети</text>
+</navLabel>
+<content src="ch1-13.xhtml#id185"/>
+</navPoint>
+<navPoint playOrder="186" id="id186">
+<navLabel>
+<text>Смартфоны и мессенджеры</text>
+</navLabel>
+<content src="ch1-13.xhtml#id186"/>
+</navPoint>
+<navPoint playOrder="187" id="id187">
+<navLabel>
+<text>Что еще</text>
+</navLabel>
+<content src="ch1-13.xhtml#id187"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="188" id="id188">
+<navLabel>
+<text>Как отключаться от матрицы</text>
+</navLabel>
+<content src="ch1-13.xhtml#id188"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="189" id="id189">
+<navLabel>
+<text>Заключение Как все-таки делать долгие проекты</text>
+</navLabel>
+<content src="ch1-14.xhtml#id189"/>
+</navPoint>
+<navPoint playOrder="190" id="id190">
+<navLabel>
+<text>Что еще</text>
+</navLabel>
+<content src="ch1-15.xhtml#id190"/>
+</navPoint>
+</navMap>
+</ncx>
